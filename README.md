@@ -13,7 +13,7 @@ The Visual analysis module is developed in Python version 3.5. Below the additio
 
 [CUDA Toolkit](https://developer.nvidia.com/cuda-toolkit ): Α development environment for creating high performance GPU-accelerated applications.
 
-[Imagehash library] (https://pypi.org/project/ImageHash/). Library for image similarity detection
+[Imagehash library](https://pypi.org/project/ImageHash/). Library for image similarity detection
 
 
 ## Instructions
